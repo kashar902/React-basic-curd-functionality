@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Ashar",
+      "username": "kashar902",
+      "email": "kashar902@gmail.com",
+      "number": "65493152",
+      "id": 1
+    },
+    {
+      "name": "Maryam",
+      "username": "maryam_nadeem13",
+      "email": "marrieArsh@gmail.com",
+      "number": "3352650290",
+      "id": 2
+    },
+    {
+      "name": "maryam",
+      "username": "ayshi",
+      "email": "kashar10@outlook.com",
+      "number": "4846584",
+      "id": 4
+    },
+    {
+      "name": "kate",
+      "username": "affan",
+      "email": "affan.kate@gmail.com",
+      "number": "ldos",
+      "id": 5
+    },
+    {
+      "name": "kdfj",
+      "username": "wiqj",
+      "email": "affan.kate@gmail.com",
+      "number": "ldos",
+      "id": 6
+    }
+  ]
+}
